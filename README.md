@@ -13,7 +13,7 @@
   <p align="center">
     <img src="assets/python-icon.svg" alt="Python Icon" width="50">
     <img src="assets/flask-icon.svg" alt="Flask Icon" width="40">
-    <img src="assets/sqlalchemy-icon.svg" alt="SQLAlchemy Icon" width="60">
+    <img src="assets/SQLAlchemy-icon.svg" alt="SQLAlchemy Icon" width="60">
     <img src="assets/Pandas-icon.svg" alt="Pandas Icon" width="50">
     <img src="assets/linux-icon.svg" alt="Linux Icon" width="50">
     <img src="assets/php-icon.svg" alt="PHP Icon" width="50">
